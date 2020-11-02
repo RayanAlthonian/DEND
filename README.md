@@ -1,1 +1,1 @@
-"# DEND" 
+This repo contains my work in the data engineering nanodegree by Udacity. 
